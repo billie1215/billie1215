@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billie1215 🌈🏳️‍⚧️💀🦇🖤
-- 👀 I’m interested in C++, C#, Javascript, game development 🍓🍦🔪🖤
-- 🌱 I’m currently learning Java, Unity 🦑🧃🎃⚰🖤
+- 👀 I’m interested in C++, C#, game development 🍓🍦🔪🖤
+- 🌱 I’m currently learning Java, Javascript, Unity 🦑🧃🎃⚰🖤
 - 💞️ I’m looking to collaborate on game development with creatives and asset producers 🕹🎮👾🤺🖤
 - 📫 How to reach me billiepersonal@gmail.com 🍣☄🎶🖤
 
